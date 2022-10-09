@@ -1,0 +1,57 @@
+.smaller_h2 {
+              color: white;
+              letter-spacing: 0.05em;
+              font-size: 2em;
+
+            
+            
+}
+
+
+body {background-color: black;
+font-family: "josefin sans" , sans-serif;}
+.smaller_h1 {
+              color: white;
+              letter-spacing: 0.05em;
+              font-size: 2em;
+              
+              padding: 5% 25% 3% 25%;
+              position: relative;
+              
+              
+}
+
+
+.pink_link {
+          text-decoration: none !important;
+          font-size: 1.3em
+          color: rgb(255, 77, 109);
+
+}
+
+
+p {
+  
+  padding: 0% 5% 0 5%;
+  font-size: 1.3em;
+  color: white;
+}
+
+#struttura {max-width: 100%;
+  height: auto; }
+
+#palette {max-width: 30%;
+  height: auto; }
+
+#sticker2 {max-width: 30%;
+height: auto;} 
+
+#sticker3 {max-width: 30%;
+height: auto;} 
+
+#sticker1 {max-width: 30%;
+height: auto;} 
+
+#wireframe {max-width: 100%;
+
+height: auto;}
