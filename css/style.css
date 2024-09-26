@@ -91,13 +91,13 @@ h3 {
 }
 
 .bottom_right {
-              top: 80%;
-              left: 50%;
+              top: 80% !important;
+              left: 50% !important;
 }
 
 .bottom_right2 {
               padding-top: 47% !important;
-              left: 5%;
+              left: 5% !importante; 
 }
 
 
